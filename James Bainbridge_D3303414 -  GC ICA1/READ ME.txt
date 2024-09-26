@@ -1,0 +1,21 @@
+CONTROLS:
+Keyboard:
+W + Up Arrow - Forward
+A + Left Arrow - Left
+D + Right Arrow - Right
+S + Down Arrow - Down
+Mouse - Camera Movement
+E - Interact
+Space Bar - Jump
+P - Pause
+
+Controller:
+Left Control Stick - WASD - Movement
+Right Control Stick - Camera Movement
+A - Jump
+X - Interact
+Start Button - Pause
+
+NOTES:
+All buttons on widgets can only be used by mouse and cursor. (This relates to the Keypad and Pause menu widgets.)
+Some of the dialogue boxs are a bit broken due to scaling issues and a lack of time.
